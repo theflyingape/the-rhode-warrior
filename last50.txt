@@ -1,0 +1,51 @@
+Last 50 kills:
+Nov 11, 1992  16:51  Imagination was killed by a Orc.
+Nov 6, 1992  19:07  The Flying Ape killed a Kobold.
+Nov 6, 1992  18:11  The Flying Ape was killed by a Orc.
+Nov 6, 1992  18:11  The Flying Ape retreated from an Orc.
+Nov 6, 1992  18:05  The Flying Ape was killed by a Orc.
+Nov 6, 1992  18:05  The Flying Ape retreated from an Orc.
+Nov 6, 1992  18:05  The Flying Ape killed a Kobold.
+Nov 6, 1992  18:01  Imagination killed a Kobold.
+Nov 6, 1992  17:49  Imagination killed a Kobold.
+Oct 19, 1992  17:59  Imagination killed The Flying Ape.
+Oct 19, 1992  17:54  The Flying Ape was killed by a Kobold.
+Oct 19, 1992  17:52  Imagination was killed by a Orc.
+Oct 19, 1992  17:45  Imagination was killed by a Kobold.
+Sep 26, 1992  20:29  The Flying Ape was killed by a Kobold.
+Sep 26, 1992  20:21  The Flying Ape was killed by a Kobold.
+Sep 26, 1992  15:38  The Flying Ape was killed by a Kobold.
+Sep 26, 1992  15:23  The Flying Ape was killed by a Kobold.
+Sep 17, 1991  17:36  The Enforcer was killed by a summoned Demon.
+Sep 17, 1991  17:35  The Enforcer retreated from a summoned Demon.
+Sep 17, 1991  17:28  Comic Book Queen was killed by a summoned Demon.
+Sep 17, 1991  17:26  Comic Book Queen killed Cuisinart.
+Sep 17, 1991  17:15  Machine Man killed Audrus.
+Sep 17, 1991  17:04  The Enforcer killed a summoned Demon.
+Sep 17, 1991  17:02  The Enforcer killed a summoned Demon.
+Sep 17, 1991  17:02  The Enforcer retreated from a summoned Demon.
+Sep 17, 1991  16:54  Machine Man retreated from a Hydra.
+Sep 17, 1991  16:42  The Enforcer killed Crazy Legs.
+Sep 17, 1991  16:41  The Enforcer killed a summoned Demon.
+Sep 17, 1991  16:40  The Enforcer retreated from Crazy Legs.
+Sep 17, 1991  16:22  Punisher killed Data.
+Sep 17, 1991  14:15  Machine Man retreated from Wolverine.
+Sep 17, 1991  14:11  Machine Man retreated from Wolverine.
+Sep 17, 1991  14:06  The Enforcer killed a summoned Demon.
+Sep 17, 1991  14:05  The Enforcer killed a summoned Demon.
+Sep 17, 1991  14:04  The Enforcer retreated from Crazy Legs.
+Sep 17, 1991  14:01  Machine Man was killed by Audrus.
+Sep 17, 1991  13:59  Machine Man retreated from Audrus.
+Sep 17, 1991  13:38  Count Thrust retreated from Comic Book Queen.
+Sep 17, 1991  13:36  Count Thrust killed a Nycadaemon.
+Sep 17, 1991  13:35  Count Thrust killed Darkness.
+Sep 17, 1991  12:59  Comic Book Queen retreated from a Beholder.
+Sep 17, 1991  12:56  Comic Book Queen killed Cuisinart.
+Sep 17, 1991  12:51  Comic Book Queen retreated from Cuisinart.
+Sep 17, 1991  12:47  Count Thrust killed Audrus.
+Sep 17, 1991  12:29  Comic Book Queen retreated from Cuisinart.
+Sep 17, 1991  12:28  Comic Book Queen killed Darkness.
+Sep 17, 1991  12:22  Comic Book Queen retreated from Darkness.
+Sep 17, 1992  11:32  Comic Book Queen retreated from Darkness.
+Sep 17, 1992  11:06  Machine Man killed Imagination.
+Sep 17, 1992  11:05  Machine Man killed Iceman.
